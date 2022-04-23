@@ -1,0 +1,44 @@
+* {
+    font-family: monospace;
+}
+
+thead {
+    background-color: navy;
+}
+
+tbody {
+    background-color: black;
+}
+
+table, th, td {
+    border: 2px solid;
+}
+
+header {
+    color:blue;
+    font-weight: bold;
+}
+
+#col1h {
+    color: red;
+}
+
+#col2h {
+    color: darkorchid;
+}
+
+#col3h {
+    color: green;
+}
+
+#col1 {
+    color: crimson;
+}
+
+#col2 {
+    color: violet;
+}
+
+#col3 {
+    color: lawngreen;
+}
